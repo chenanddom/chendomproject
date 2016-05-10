@@ -8,4 +8,8 @@ public static void show(){
 System.out.println("shdsdhsa");
 
 }
+public static void show2(){
+System.out.println("shdsdhsa");
+
+}
 }
