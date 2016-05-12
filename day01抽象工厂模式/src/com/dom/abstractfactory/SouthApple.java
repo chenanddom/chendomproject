@@ -8,4 +8,5 @@ public class SouthApple extends Apple {
 		System.out.println("до╥╫ф╩╧Ш");
 	}
 
+
 }
